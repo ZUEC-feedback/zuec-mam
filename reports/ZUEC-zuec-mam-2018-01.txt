@@ -1,0 +1,137 @@
+Report for Institution Code ZUEC, Resource zuec-mam
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 578
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: Denmark ; Times: 9
+	Country: Mexico ; Times: 40
+	Country: United States ; Times: 18
+	Country: Colombia ; Times: 6
+	Country: Unknown ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 5
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 2
+	Date: 2018-01-15 ; Times: 7
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-01 ; Times: 4
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-14 ; Times: 5
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-22 ; Times: 6
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-16 ; Times: 31
+	Date: 2018-01-07 ; Times: 2
+	Date: 2018-01-23 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Eira barbara" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "genus:Brucepattersonius" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "trichomys" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 6
+	Query: "Mazama gouazoubira" ; Times: 1
+	Query: "Lampronycteris brachyotis" ; Times: 1
+	Query: "cryptonanus" ; Times: 4
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "eira barbara" ; Times: 2
+	Query: "Sus scrofa" ; Times: 1
+	Query: "limeira" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 4
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 3
+	Query: "&#34;nasua nasua&#34; brazil" ; Times: 1
+	Query: "&#34;Chrysocyon brachyurus&#34; mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "class:mammalia institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 18
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:brachyteles" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 5
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "genus:Lutreolina mappable:1" ; Times: 2
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "tapirus terrestris" ; Times: 2
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "genus:Rhagomys" ; Times: 2
+	Query: "genus:Blarinomys" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "Furipterus horrens" ; Times: 1
+	Query: "Cryptonanus" ; Times: 1
+	Query: "Thalpomys" ; Times: 1
+	Query: "&#34;Lutreolina crassicaudata&#34; mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1398 download events in this period)
+Total number of records downloaded: 138
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Italy ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-02 ; Times: 5
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-06 ; Times: 2
+	Date: 2018-01-23 ; Times: 1
+	Date: 2018-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eira barbara" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "nyctalus noctula" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+
+
+End of report.
