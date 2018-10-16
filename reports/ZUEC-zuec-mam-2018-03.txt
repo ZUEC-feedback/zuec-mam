@@ -1,0 +1,205 @@
+Report for Institution Code ZUEC, Resource zuec-mam
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 453
+Number of records retrieved in searches: 2090
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 380
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 38
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 75
+	Date: 2018-03-28 ; Times: 4
+	Date: 2018-03-19 ; Times: 6
+	Date: 2018-03-22 ; Times: 5
+	Date: 2018-03-10 ; Times: 3
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-01 ; Times: 9
+	Date: 2018-03-02 ; Times: 35
+	Date: 2018-03-03 ; Times: 34
+	Date: 2018-03-04 ; Times: 4
+	Date: 2018-03-05 ; Times: 32
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-29 ; Times: 6
+	Date: 2018-03-26 ; Times: 79
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-27 ; Times: 81
+	Date: 2018-03-25 ; Times: 6
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-23 ; Times: 3
+	Date: 2018-03-20 ; Times: 29
+	Date: 2018-03-21 ; Times: 37
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Brachyteles specificepithet:arachnoides" ; Times: 8
+	Query: "specificepithet:terrestris genus:Tapirus" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "genus:Philander specificepithet:opossum" ; Times: 2
+	Query: "genus:Lonchophylla specificepithet:robusta" ; Times: 2
+	Query: "genus:Alouatta specificepithet:caraya" ; Times: 11
+	Query: "specificepithet:philander genus:Caluromys" ; Times: 1
+	Query: "genus:Cuniculus specificepithet:paca" ; Times: 5
+	Query: "specificepithet:americana genus:Mazama" ; Times: 1
+	Query: "specificepithet:crassicaudata genus:Lutreolina" ; Times: 1
+	Query: "genus:Artibeus specificepithet:obscurus" ; Times: 2
+	Query: "Leopardus tigrinus mappable:1" ; Times: 1
+	Query: "genus:Micronycteris specificepithet:minuta" ; Times: 5
+	Query: "specificepithet:aperea genus:Cavia" ; Times: 1
+	Query: "genus:Lontra specificepithet:longicaudis" ; Times: 5
+	Query: "specificepithet:brachyurus genus:Chrysocyon" ; Times: 1
+	Query: "genus:Callithrix specificepithet:sp." ; Times: 5
+	Query: "placenta" ; Times: 1
+	Query: "genus:Tapirus specificepithet:terrestris" ; Times: 5
+	Query: "genus:Sphaeronycteris specificepithet:toxophyllum" ; Times: 5
+	Query: "genus:Peropteryx specificepithet:kappleri" ; Times: 5
+	Query: "genus:Diphylla specificepithet:ecaudata" ; Times: 5
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "specificepithet:aestuans genus:Sciurus" ; Times: 1
+	Query: "genus:Nectomys specificepithet:squamipes" ; Times: 2
+	Query: "genus:Myotis specificepithet:ruber" ; Times: 5
+	Query: "genus:Anoura specificepithet:caudifer" ; Times: 5
+	Query: "genus:Eumops specificepithet:perotis" ; Times: 5
+	Query: "genus:Eptesicus specificepithet:diminutus" ; Times: 6
+	Query: "specificepithet:flavus genus:Potos" ; Times: 1
+	Query: "genus:Rhinophylla specificepithet:fischerae" ; Times: 5
+	Query: "specificepithet:nudicaudatus genus:Metachirus" ; Times: 1
+	Query: "genus:Gracilinanus specificepithet:agilis" ; Times: 5
+	Query: "genus:Callicebus  specificepithet:sp." ; Times: 3
+	Query: "specificepithet:minimus genus:Chironectes" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "specificepithet:agilis genus:Gracilinanus" ; Times: 1
+	Query: "specificepithet:tridactylus genus:Bradypus" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 5
+	Query: "genus:Monodelphis specificepithet:sp." ; Times: 5
+	Query: "genus:Euphractus specificepithet:sexcinctus" ; Times: 5
+	Query: "genus:Cabassous specificepithet:unicinctus" ; Times: 5
+	Query: "genus:Nyctalus specificepithet:noctula" ; Times: 5
+	Query: "specificepithet:kunsi genus:Monodelphis" ; Times: 1
+	Query: "specificepithet:longicaudis genus:Lontra" ; Times: 1
+	Query: "genus:Cynomops specificepithet:planirostris" ; Times: 5
+	Query: "genus:Callicebus specificepithet:sp." ; Times: 2
+	Query: "genus:Sciurus specificepithet:sp." ; Times: 5
+	Query: "genus:Marmosops specificepithet:incanus" ; Times: 5
+	Query: "genus:Noctilio specificepithet:leporinus" ; Times: 2
+	Query: "genus:Promops specificepithet:nasutus" ; Times: 5
+	Query: "genus:Alouatta specificepithet:sp." ; Times: 11
+	Query: "gracilinanus" ; Times: 1
+	Query: "priodontes" ; Times: 1
+	Query: "genus:Lonchorhina specificepithet:aurita" ; Times: 5
+	Query: "genus:Pontoporia specificepithet:blainvillei" ; Times: 5
+	Query: "genus:Eumops specificepithet:glaucinus" ; Times: 5
+	Query: "genus:Cebus specificepithet:apella" ; Times: 7
+	Query: "genus:Phyllostomus specificepithet:hastatus" ; Times: 2
+	Query: "genus:Eptesicus specificepithet:brasiliensis" ; Times: 6
+	Query: "genus:Molossops specificepithet:temminckii" ; Times: 5
+	Query: "genus:Phyllostomus specificepithet:elongatus" ; Times: 5
+	Query: "genus:Speothos specificepithet:venaticus" ; Times: 5
+	Query: "genus:Uroderma specificepithet:magnirostrum" ; Times: 2
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "specificepithet:pecari genus:Tayassu" ; Times: 1
+	Query: "genus:Bradypus specificepithet:tridactylus " ; Times: 6
+	Query: "genus:Sturnira specificepithet:tildae" ; Times: 5
+	Query: "specificepithet:barbara genus:Eira" ; Times: 1
+	Query: "genus:Didelphis specificepithet:sp." ; Times: 5
+	Query: "specificepithet:bicolor genus:Oecomys" ; Times: 1
+	Query: "specificepithet:tetradactyla genus:Tamandua" ; Times: 1
+	Query: "genus:Pteronura specificepithet:brasiliensis" ; Times: 5
+	Query: "genus:Rhinophylla specificepithet:pumilio" ; Times: 5
+	Query: "genus:Chiroderma specificepithet:villosum" ; Times: 2
+	Query: "genus:Marmosa specificepithet:sp." ; Times: 5
+	Query: "genus:Potos specificepithet:flavus" ; Times: 2
+	Query: "genus:Caluromys specificepithet:sp." ; Times: 5
+	Query: "specificepithet:venaticus genus:Speothos" ; Times: 1
+	Query: "specificepithet:opossum genus:Philander" ; Times: 1
+	Query: "Conepatus brasil" ; Times: 3
+	Query: "specificepithet:unicinctus genus:Cabassous" ; Times: 1
+	Query: "specificepithet:chinga genus:conepatus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 4
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "genus:Macrophyllum specificepithet:macrophyllum" ; Times: 5
+	Query: "genus:Gracilinanus specificepithet:microtarsus" ; Times: 5
+	Query: "genus:Dasypus specificepithet:sp." ; Times: 5
+	Query: "genus:Cebus specificepithet:Sp." ; Times: 6
+	Query: "specificepithet:lanatus genus:Caluromys" ; Times: 1
+	Query: "genus:Platyrrhinus specificepithet:lineatus" ; Times: 5
+	Query: "specificepithet:thous genus:Cerdocyon" ; Times: 1
+	Query: "genus:Felis specificepithet:catus" ; Times: 2
+	Query: "sex:female specificepithet: nigripes " ; Times: 1
+	Query: "genus:Ametrida specificepithet:centurio" ; Times: 5
+	Query: "genus:Pteronotus specificepithet:davyi" ; Times: 2
+	Query: "genus:Micronycteris specificepithet:megalotis" ; Times: 2
+	Query: "genus:Didelphis specificepithet:marsupialis" ; Times: 2
+	Query: "genus:Saguinus specificepithet:fuscicollis" ; Times: 3
+	Query: "specificepithet:tigrinus genus:Leopardus" ; Times: 1
+	Query: "vntype:specimen genus:Galictis family:Mustelidae order:Carnivora class:Mammalia" ; Times: 1
+	Query: "genus:Mimon specificepithet:crenulatum" ; Times: 5
+	Query: "specificepithet:brasiliensis genus:Pteronura" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "genus:Nyctinomops specificepithet:laticaudatus" ; Times: 2
+	Query: "specificepithet:wiedii genus:Leopardus" ; Times: 1
+	Query: "genus:Steno specificepithet:bredanensis" ; Times: 5
+	Query: "specificepithet:chinga genus:Conepatus" ; Times: 1
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 5
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "genus:Choeroniscus specificepithet:minor" ; Times: 5
+	Query: "genus:Chrotopterus specificepithet:auritus" ; Times: 5
+	Query: "Euphractus sexcinctus" ; Times: 22
+	Query: "genus:Carollia specificepithet:castanea" ; Times: 2
+	Query: "genus:Trachops specificepithet:cirrhosus" ; Times: 2
+	Query: "Tolypeutes tricinctus" ; Times: 1
+	Query: "genus:Marmosa specificepithet:murina" ; Times: 5
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 2
+	Query: "specificepithet:murina genus:Marmosa" ; Times: 1
+	Query: "genus:Monodelphis specificepithet:domestica " ; Times: 5
+	Query: "specificepithet:vittata genus:Galictis" ; Times: 1
+	Query: "genus:Chironectes specificepithet:minimus" ; Times: 5
+	Query: "genus:Artibeus specificepithet:concolor" ; Times: 5
+	Query: "genus:Vampyressa specificepithet:pusilla" ; Times: 5
+	Query: "genus:Lutreolina specificepithet:crassicaudata" ; Times: 5
+	Query: "specificepithet:marsupialis genus:Didelphis" ; Times: 1
+	Query: "genus:Artibeus specificepithet:fimbriatus" ; Times: 5
+	Query: "specificepithet:didactylus genus:Cyclopes" ; Times: 1
+	Query: "genus:Lonchophylla specificepithet:mordax" ; Times: 5
+	Query: "specificepithet:cuja genus:Galictis" ; Times: 1
+	Query: "genus:Pygoderma specificepithet:bilabiatum" ; Times: 5
+	Query: "specificepithet:cancrivorus genus:Procyon" ; Times: 1
+	Query: "genus:Callicebus specificepithet:personatus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1284 download events in this period)
+Total number of records downloaded: 266
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-20 ; Times: 5
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia Didelphis marsupialis" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 5
+	Query: "vntype:specimen genus:Galictis family:Mustelidae order:Carnivora class:Mammalia" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "vampyressa pusilla" ; Times: 1
+
+
+End of report.
