@@ -1,0 +1,88 @@
+Report for Institution Code ZUEC, Resource zuec-mam
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 230
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-22 ; Times: 3
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 5
+	Date: 2018-09-21 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Leontopithecus chrysomelas" ; Times: 1
+	Query: "specificepithet:breviceps genus:Blarinomys" ; Times: 2
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Brachyteles arachnoides" ; Times: 1
+	Query: "specificepithet:montensis genus:Akodon" ; Times: 2
+	Query: "brucepattersonius" ; Times: 1
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "Artibeus concolor" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 16
+	Query: "delomys" ; Times: 3
+	Query: "gbifdatasetid:8cc8f167-d9eb-4b50-905a-34895bb13325" ; Times: 1
+	Query: "specificepithet:itoan genus:Rhipidomys" ; Times: 2
+	Query: "Caluromys philander" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 846 download events in this period)
+Total number of records downloaded: 130
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-26 ; Times: 4
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "brucepattersonius" ; Times: 1
+	Query: "micronycteris minuta" ; Times: 1
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "Sphaeronycteris toxophyllum" ; Times: 1
+	Query: "delomys" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+
+
+End of report.
