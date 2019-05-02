@@ -1,0 +1,124 @@
+Report for Institution Code ZUEC, Resource zuec-mam
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 636
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: United States ; Times: 22
+	Country: United Kingdom ; Times: 38
+	Country: Mexico ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-15 ; Times: 15
+	Date: 2019-03-18 ; Times: 5
+	Date: 2019-03-26 ; Times: 6
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-25 ; Times: 27
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-21 ; Times: 8
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-17 ; Times: 8
+	Date: 2019-03-14 ; Times: 18
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 2
+	Query: "Cerdocyon thous mappable:1" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "brucepattersonius" ; Times: 1
+	Query: "Coendou mappable:1" ; Times: 1
+	Query: "specificepithet:septemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:aurita genus:Didelphis" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 27
+	Query: "Chiroderma doriae" ; Times: 4
+	Query: "Lonchophylla bokermanni" ; Times: 15
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "cabassous" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "yagouaroundi" ; Times: 1
+	Query: "specificepithet:tricinctus genus:Tolypeutes" ; Times: 3
+	Query: "Platyrrhinus recifinus" ; Times: 8
+	Query: "monodelphis americana" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "cabassous tatouay" ; Times: 2
+	Query: "lonchophylla hastypestatus:1" ; Times: 3
+	Query: "Lonchophylla mordax" ; Times: 3
+	Query: "brazil vntype:specimen specificepithet:venaticus genus:Speothos family:Canidae" ; Times: 1
+	Query: "juliomys" ; Times: 1
+	Query: "brachyteles" ; Times: 1
+	Query: "Cabassous unicinctus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos family:Canidae" ; Times: 1
+	Query: "Lonchophylla dekeyseri" ; Times: 8
+	Query: "Rhipidomys mastacalis mappable:1" ; Times: 1
+	Query: "Lontra longicaudis mappable:1" ; Times: 1
+	Query: "delomys" ; Times: 1
+	Query: "Thalpomys" ; Times: 4
+	Query: "Brazil vntype:specimen genus:Speothos family:Canidae" ; Times: 1
+	Query: "lonchophylla mordax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1281 download events in this period)
+Total number of records downloaded: 170
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 6
+	Country: Brazil ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-22 ; Times: 3
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-14 ; Times: 6
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-03 ; Times: 3
+	Date: 2019-03-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "cabassous tatouay" ; Times: 1
+	Query: "Artibeus fimbriatus" ; Times: 1
+	Query: "promops" ; Times: 1
+	Query: "specificepithet:tricinctus genus:Tolypeutes" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Platyrrhinus recifinus" ; Times: 1
+	Query: "monodelphis americana" ; Times: 1
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Lonchophylla mordax" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Chiroderma doriae" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Lonchophylla dekeyseri" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+
+
+End of report.
