@@ -1,0 +1,219 @@
+Report for Institution Code ZUEC, Resource zuec-mam
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 215
+Number of records retrieved in searches: 1386
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 189
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 8
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 7
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-22 ; Times: 9
+	Date: 2019-05-03 ; Times: 8
+	Date: 2019-05-29 ; Times: 6
+	Date: 2019-05-28 ; Times: 3
+	Date: 2019-05-02 ; Times: 4
+	Date: 2019-05-18 ; Times: 3
+	Date: 2019-05-19 ; Times: 7
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-10 ; Times: 11
+	Date: 2019-05-06 ; Times: 60
+	Date: 2019-05-05 ; Times: 57
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-14 ; Times: 18
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-01 ; Times: 9
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Marmosops paulensis mappable:1" ; Times: 1
+	Query: "genus:Galictis family:Mustelidae" ; Times: 1
+	Query: "Cryptonanus chacoensis mappable:1" ; Times: 1
+	Query: "Holochilus brasiliensis mappable:1" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "Eumops glaucinus mappable:1" ; Times: 1
+	Query: "Mimon bennettii mappable:1" ; Times: 1
+	Query: "Gracilinanus agilis mappable:1" ; Times: 1
+	Query: "Puma yagouaroundi mappable:1" ; Times: 1
+	Query: "Lonchophylla bokermanni mappable:1" ; Times: 4
+	Query: "Lontra longicaudis mappable:1" ; Times: 1
+	Query: "Diphylla ecaudata mappable:1" ; Times: 1
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "Juliomys pictipes mappable:1" ; Times: 1
+	Query: "Didelphis aurita mappable:1" ; Times: 5
+	Query: "Lonchorhina aurita mappable:1" ; Times: 1
+	Query: "Kannabateomys amblyonyx mappable:1" ; Times: 1
+	Query: "Uroderma magnirostrum mappable:1" ; Times: 1
+	Query: "Sturnira tildae mappable:1" ; Times: 1
+	Query: "Akodon cursor mappable:1" ; Times: 3
+	Query: "Histiotus velatus mappable:1" ; Times: 1
+	Query: "Rhipidomys mastacalis mappable:1" ; Times: 1
+	Query: "Monodelphis americana mappable:1" ; Times: 1
+	Query: "Artibeus cinereus mappable:1" ; Times: 1
+	Query: "Brachyteles arachnoides mappable:1" ; Times: 1
+	Query: "Micronycteris minuta mappable:1" ; Times: 1
+	Query: "Cerdocyon thous mappable:1" ; Times: 2
+	Query: "Alouatta caraya mappable:1" ; Times: 3
+	Query: "Platyrrhinus lineatus mappable:1" ; Times: 6
+	Query: "Chiroderma doriae mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Molossops temminckii mappable:1" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "Dasyprocta azarae mappable:1" ; Times: 2
+	Query: "Mazama gouazoubira mappable:1" ; Times: 1
+	Query: "Eumops perotis mappable:1" ; Times: 1
+	Query: "Marmosops incanus mappable:1" ; Times: 1
+	Query: "Callithrix penicillata mappable:1" ; Times: 1
+	Query: "Diaemus youngii mappable:1" ; Times: 1
+	Query: "Thaptomys nigrita mappable:1" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "Thylamys velutinus mappable:1" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Anoura caudifer mappable:1" ; Times: 1
+	Query: "Eptesicus brasiliensis mappable:1" ; Times: 1
+	Query: "chrysocyon brachyurus mappable:1" ; Times: 2
+	Query: "congonhas" ; Times: 1
+	Query: "stateprovince:&#34;Goiás&#34; country:&#34;Brasil&#34;" ; Times: 4
+	Query: "Monodelphis iheringi mappable:1" ; Times: 1
+	Query: "Calomys tener mappable:1" ; Times: 1
+	Query: "Lonchophylla dekeyseri mappable:1" ; Times: 1
+	Query: "Wiedomys pyrrhorhinos mappable:1" ; Times: 1
+	Query: "Coendou spinosus mappable:1" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 2
+	Query: "Delomys sublineatus mappable:1" ; Times: 1
+	Query: "Conepatus chinga mappable:1" ; Times: 1
+	Query: "Eptesicus diminutus mappable:1" ; Times: 1
+	Query: "Eira barbara mappable:1" ; Times: 1
+	Query: "Tonatia bidens mappable:1" ; Times: 1
+	Query: "Caluromys lanatus year &gt;= 1965 year &lt;= 2019" ; Times: 2
+	Query: "Oligoryzomys nigripes mappable:1" ; Times: 1
+	Query: "Akodon serrensis mappable:1" ; Times: 3
+	Query: "Lutreolina crassicaudata mappable:1" ; Times: 1
+	Query: "Procyon cancrivorus mappable:1" ; Times: 13
+	Query: "Choeroniscus minor mappable:1" ; Times: 1
+	Query: "Akodon montensis mappable:1" ; Times: 3
+	Query: "sciurus aestuans" ; Times: 2
+	Query: "Phyllomys nigrispinus mappable:1" ; Times: 1
+	Query: "procyon cancrivorus" ; Times: 2
+	Query: "Peropteryx leucoptera mappable:1" ; Times: 1
+	Query: "Marmosa murina mappable:1" ; Times: 1
+	Query: "genus:Vampyrum" ; Times: 1
+	Query: "Monodelphis macae mappable:1" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 1
+	Query: "Pteronura brasiliensis mappable:1" ; Times: 1
+	Query: "Gracilinanus microtarsus mappable:1" ; Times: 1
+	Query: "gracilinanus microtarsus" ; Times: 1
+	Query: "Chrotopterus auritus mappable:1" ; Times: 10
+	Query: "Mazama americana mappable:1" ; Times: 1
+	Query: "Myocastor coypus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Monodelphis sorex mappable:1" ; Times: 1
+	Query: "Artibeus fimbriatus mappable:1" ; Times: 5
+	Query: "Oecomys bicolor mappable:1" ; Times: 1
+	Query: "Blarinomys breviceps mappable:1" ; Times: 1
+	Query: "Caluromys lanatus mappable:1" ; Times: 1
+	Query: "Chironectes minimus mappable:1" ; Times: 1
+	Query: "histiotus" ; Times: 2
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 3
+	Query: "Galictis cuja mappable:1" ; Times: 1
+	Query: "Monodelphis scalops mappable:1" ; Times: 1
+	Query: "Dasypus septemcinctus mappable:1" ; Times: 1
+	Query: "Euphractus sexcinctus mappable:1" ; Times: 1
+	Query: "Furipterus horrens mappable:1" ; Times: 2
+	Query: "Macrophyllum macrophyllum mappable:1" ; Times: 1
+	Query: "Saccopteryx leptura mappable:1" ; Times: 1
+	Query: "Eumops auripendulus mappable:1" ; Times: 1
+	Query: "ailuropoda" ; Times: 1
+	Query: "Caluromys philander mappable:1" ; Times: 1
+	Query: "Platyrrhinus recifinus mappable:1" ; Times: 4
+	Query: "Bibimys labiosus mappable:1" ; Times: 1
+	Query: "Rhagomys rufescens mappable:1" ; Times: 1
+	Query: "Promops nasutus mappable:1" ; Times: 1
+	Query: "Euryoryzomys russatus mappable:1" ; Times: 1
+	Query: "Cabassous tatouay mappable:1" ; Times: 1
+	Query: "Cavia aperea mappable:1" ; Times: 1
+	Query: "Peropteryx kappleri mappable:1" ; Times: 1
+	Query: "Tayassu pecari mappable:1" ; Times: 1
+	Query: "Callicebus personatus mappable:1" ; Times: 1
+	Query: "Monodelphis kunsi mappable:1" ; Times: 1
+	Query: "Myotis ruber mappable:1" ; Times: 1
+	Query: "Pygoderma bilabiatum mappable:1" ; Times: 1
+	Query: "Brucepattersonius soricinus mappable:1" ; Times: 1
+	Query: "specificepithet:aestuans genus:sciurus" ; Times: 4
+	Query: "Oxymycterus delator mappable:1" ; Times: 1
+	Query: "Cynomops planirostris mappable:1" ; Times: 1
+	Query: "Trinomys iheringi mappable:1" ; Times: 1
+	Query: "Pontoporia blainvillei mappable:1" ; Times: 5
+	Query: "Delomys dorsalis mappable:1" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "Metachirus nudicaudatus mappable:1" ; Times: 1
+	Query: "Monodelphis domestica mappable:1" ; Times: 1
+	Query: "diphylla" ; Times: 7
+	Query: "Cabassous unicinctus mappable:1" ; Times: 2
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "Lonchophylla mordax mappable:1" ; Times: 3
+	Query: "Philander frenatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 940 download events in this period)
+Total number of records downloaded: 117
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-13 ; Times: 3
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gracilinanus agilis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "didelphis albiventris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "didelphis marsupialis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "marmosops incanus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "diphylla" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Philander opossum year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "gracilinanus microtarsus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Caluromys lanatus year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "genus:Vampyrum" ; Times: 1
+
+
+End of report.
