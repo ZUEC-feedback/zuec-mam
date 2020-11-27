@@ -1,0 +1,74 @@
+Report for Institution Code ZUEC, Resource zuec-mam
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 98
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 5
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-13 ; Times: 3
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 1
+	Query: "TOLYPEUTES" ; Times: 1
+	Query: "genus:Rhagomys" ; Times: 2
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "rhagomys" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 1
+	Query: "specificepithet:yagouaroundi" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 6
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 596 download events in this period)
+Total number of records downloaded: 74
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-04 ; Times: 5
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "oligoryzomys flavescens" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Sphaeronycteris" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
