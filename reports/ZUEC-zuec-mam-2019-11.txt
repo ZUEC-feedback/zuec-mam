@@ -1,0 +1,130 @@
+Report for Institution Code ZUEC, Resource zuec-mam
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 683
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Denmark ; Times: 79
+	Country: United States ; Times: 33
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 4
+	Date: 2019-11-21 ; Times: 2
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-08 ; Times: 6
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-09 ; Times: 6
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-07 ; Times: 27
+	Date: 2019-11-16 ; Times: 7
+	Date: 2019-11-03 ; Times: 4
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 56
+	Date: 2019-11-27 ; Times: 3
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-12 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 5
+	Query: "Holochilus brasiliensis" ; Times: 1
+	Query: "Oligoryzomys flavescens" ; Times: 1
+	Query: "Oxymycterus roberti" ; Times: 1
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "Pteronura brasiliensis mappable:1" ; Times: 5
+	Query: "Sciurus aestuans" ; Times: 1
+	Query: "chrotopterus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Brucepattersonius soricinus" ; Times: 3
+	Query: "Euryoryzomys russatus" ; Times: 2
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Oxymycterus delator" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Calomys tener" ; Times: 2
+	Query: "Coendou spinosus" ; Times: 2
+	Query: "Oxymycterus nasutus" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 10
+	Query: "Leopardus pardalis 2004" ; Times: 4
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "TAYASSU PECARI" ; Times: 1
+	Query: "Leopardus pardalis 2000" ; Times: 4
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "Trinomys iheringi" ; Times: 1
+	Query: "Didelphis aurita" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 3
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "Caluromys lanatus" ; Times: 3
+	Query: "Rhagomys rufescens" ; Times: 1
+	Query: "Rhipidomys mastacalis" ; Times: 1
+	Query: "Kannabateomys amblyonyx" ; Times: 1
+	Query: "Juliomys pictipes" ; Times: 1
+	Query: "Blarinomys breviceps" ; Times: 4
+	Query: "Leopardus pardalis 1991" ; Times: 4
+	Query: "Histiotus" ; Times: 2
+	Query: "Leopardus pardalis 1992" ; Times: 4
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Leopardus pardalis 1996" ; Times: 4
+	Query: "Necromys lasiurus" ; Times: 1
+	Query: "Wiedomys pyrrhorhinos" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Delomys sublineatus" ; Times: 2
+	Query: "Marmosa murina" ; Times: 2
+	Query: "Cuniculus paca" ; Times: 8
+	Query: "Tolypeutes tricinctus" ; Times: 1
+	Query: "Delomys dorsalis" ; Times: 2
+	Query: "Phyllomys nigrispinus" ; Times: 1
+	Query: "Cerradomys subflavus" ; Times: 2
+	Query: "Akodon serrensis" ; Times: 4
+	Query: "Dasyprocta azarae" ; Times: 2
+	Query: "Leopardus pardalis 2015" ; Times: 2
+	Query: "Leopardus pardalis 2017" ; Times: 4
+	Query: "Thaptomys nigrita" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Oxymycterus hispidus" ; Times: 1
+	Query: "Akodon cursor" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 2
+	Query: "Clyomys laticeps" ; Times: 2
+	Query: "Nectomys squamipes" ; Times: 1
+	Query: "Bibimys labiosus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1367 download events in this period)
+Total number of records downloaded: 85
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-07 ; Times: 6
+	Date: 2019-11-27 ; Times: 2
+	Date: 2019-11-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "Holochilus" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Tolypeutes tricinctus" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+
+
+End of report.
