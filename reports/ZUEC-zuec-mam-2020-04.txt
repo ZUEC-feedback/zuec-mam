@@ -1,0 +1,143 @@
+Report for Institution Code ZUEC, Resource zuec-mam
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 173
+Number of records retrieved in searches: 563
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 119
+	Country: Austria ; Times: 14
+	Country: Peru ; Times: 11
+	Country: Switzerland ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 4
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-17 ; Times: 14
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-07 ; Times: 69
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-23 ; Times: 4
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 37
+	Date: 2020-04-26 ; Times: 11
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-03 ; Times: 21
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-08 ; Times: 3
+	Date: 2020-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 4
+	Query: "Cabassous" ; Times: 2
+	Query: "genus:nyctinomops specificepithet:laticaudatus" ; Times: 1
+	Query: "genus:molossops specificepithet:temminckii" ; Times: 2
+	Query: "genus:Cynomops" ; Times: 1
+	Query: "Sciurus aestuans" ; Times: 3
+	Query: "Ametrida centurio" ; Times: 4
+	Query: "Tayassu pecari" ; Times: 8
+	Query: "Mazama gouazoubira" ; Times: 5
+	Query: "Puma yagouaroundi" ; Times: 4
+	Query: "vntype:specimen genus:Trichomys" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "genus:Artibeus specificepithet:lituratus year&gt;2000" ; Times: 1
+	Query: "Oecomys bicolor" ; Times: 6
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Lontra longicaudis" ; Times: 7
+	Query: "lasiurus ega" ; Times: 3
+	Query: "specificepithet:laticaudatus genus:Nyctinomops" ; Times: 1
+	Query: "Sphaeronycteris toxophyllum" ; Times: 4
+	Query: "Manis temminckii" ; Times: 4
+	Query: "tapirus terrestris" ; Times: 1
+	Query: "Artibeus obscurus" ; Times: 9
+	Query: "Tapirus terrestris" ; Times: 11
+	Query: "Galictis cuja" ; Times: 1
+	Query: "Brachyteles arachnoides" ; Times: 3
+	Query: "cabassous" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "lontra longicaudis" ; Times: 2
+	Query: "Mazama americana" ; Times: 3
+	Query: "Pygoderma bilabiatum" ; Times: 4
+	Query: "Callithrix penicillata" ; Times: 2
+	Query: "Manis tetradactyla" ; Times: 4
+	Query: "Alouatta caraya" ; Times: 3
+	Query: "specificepithet:laticaudatus genus:Nyctinomops OR Tadarida" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 7
+	Query: "Artibeus concolor" ; Times: 4
+	Query: "Ozotoceros bezoarticus" ; Times: 5
+	Query: "Felis catus" ; Times: 4
+	Query: "Choeroniscus minor" ; Times: 1
+	Query: "genus:Platyrrhinus specificepithet:lineatus" ; Times: 2
+	Query: "genus:nyctinomops specificepithet:laticaudatus month&gt;=1" ; Times: 1
+	Query: "Leporinus piau" ; Times: 3
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "cabassous unicinctus" ; Times: 3
+	Query: "Lasiurus blossevillii" ; Times: 8
+	Query: "Vampyressa pusilla" ; Times: 4
+	Query: "Speothos venaticus" ; Times: 5
+	Query: "genus:anoura year&gt;=2006 " ; Times: 2
+	Query: "genus:Pygoderma specificepithet:bilabiatum" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1171 download events in this period)
+Total number of records downloaded: 443
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 11
+	Country: Austria ; Times: 5
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 5
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-28 ; Times: 5
+	Date: 2020-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Noctilio specificepithet:albiventris" ; Times: 1
+	Query: "genus:nyctinomops specificepithet:laticaudatus" ; Times: 1
+	Query: "Ozotoceros bezoarticus" ; Times: 2
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "genus:Myotis specificepithet:nigricans" ; Times: 1
+	Query: "genus:Molossus specificepithet:rufus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "vntype:specimen genus:Trichomys" ; Times: 1
+	Query: "sciurus" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "genus:artibeus specificepithet:lituratus" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+
+
+End of report.
