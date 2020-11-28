@@ -1,0 +1,89 @@
+Report for Institution Code ZUEC, Resource zuec-mam
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 220
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 4
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 4
+	Date: 2020-10-19 ; Times: 2
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 17
+	Date: 2020-10-29 ; Times: 2
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "barreiro rico" ; Times: 9
+	Query: "specificepithet:terrestris genus:Tapirus" ; Times: 2
+	Query: "mappable:1 scientificname:Caluromys philander" ; Times: 2
+	Query: "mappable:1 scientificname:Didelphis marsupialis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "class:Mammalia year &gt;= 1800 year &lt;= 2015 institutioncode:ZUEC" ; Times: 1
+	Query: "mappable:1 scientificname:Oecomys bicolor" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:spinosus genus:Coendou order:Rodentia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mappable:1 scientificname:Marmosa murina" ; Times: 3
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "tapirus terrestris" ; Times: 2
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "capivaras" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 1
+	Query: "abrawayaomys" ; Times: 1
+	Query: "genus:Leopardus " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1521 download events in this period)
+Total number of records downloaded: 113
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-13 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "Chiroptera Peru" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "abrawayaomys" ; Times: 1
+	Query: "barreiro rico" ; Times: 3
+	Query: "Dasyprocta" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+
+
+End of report.
