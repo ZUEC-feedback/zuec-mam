@@ -1,0 +1,112 @@
+Report for Institution Code ZUEC, Resource zuec-mam
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 262
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 32
+	Country: United Kingdom ; Times: 8
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 23
+	Country: Colombia ; Times: 3
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-24 ; Times: 5
+	Date: 2020-11-18 ; Times: 3
+	Date: 2020-11-26 ; Times: 3
+	Date: 2020-11-27 ; Times: 3
+	Date: 2020-11-15 ; Times: 11
+	Date: 2020-11-11 ; Times: 6
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-30 ; Times: 3
+	Date: 2020-11-02 ; Times: 6
+	Date: 2020-11-10 ; Times: 16
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-16 ; Times: 9
+	Date: 2020-11-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Hydrochoeris hydrochaeris" ; Times: 1
+	Query: "scientificname:Puma concolor" ; Times: 6
+	Query: "scientificname:Sus scrofa" ; Times: 1
+	Query: "scientificname:Felis catus" ; Times: 2
+	Query: "mappable:1 scientificname:Monodelphis scalops" ; Times: 1
+	Query: "mappable:1 scientificname:Thaptomys nigrita" ; Times: 1
+	Query: "mappable:1 scientificname:Callicebus personatus" ; Times: 2
+	Query: "scientificname:Delphinus delphis" ; Times: 2
+	Query: "mappable:1 scientificname:Delomys sublineatus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "cabassous tatouay" ; Times: 5
+	Query: "Lontra longicaudis" ; Times: 7
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "mappable:1 scientificname:Monodelphis iheringi" ; Times: 2
+	Query: "leopardus tigrinus" ; Times: 8
+	Query: "mappable:1 scientificname:Juliomys pictipes" ; Times: 1
+	Query: "mappable:1 scientificname:Marmosops paulensis" ; Times: 2
+	Query: "mappable:1 scientificname:Alouatta fusca" ; Times: 2
+	Query: "scientificname:Lasiurus cinereus" ; Times: 2
+	Query: "mappable:1 scientificname:Brachyteles arachnoides" ; Times: 1
+	Query: "mappable:1 scientificname:Callicebus personatus personatus" ; Times: 1
+	Query: "mappable:1 scientificname:Brucepattersonius soricinus" ; Times: 1
+	Query: "mappable:1 scientificname:Rhagomys rufescens" ; Times: 1
+	Query: "mappable:1 scientificname:Delomys dorsalis" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "mappable:1 scientificname:Phyllomys nigrispinus" ; Times: 1
+	Query: "mappable:1 scientificname:Trinomys iheringi" ; Times: 1
+	Query: "panthera onca basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 3
+	Query: "Felis catus" ; Times: 1
+	Query: "mappable:1 scientificname:Bibimys labiosus" ; Times: 1
+	Query: "scientificname:Rattus norvegicus" ; Times: 2
+	Query: "Sooretamys" ; Times: 1
+	Query: "mappable:1 scientificname:Bradypus tridactylus" ; Times: 1
+	Query: "mappable:1 scientificname:Euryoryzomys russatus" ; Times: 1
+	Query: "mappable:1 scientificname:Blarinomys breviceps" ; Times: 1
+	Query: "mappable:1 scientificname:Akodon serrensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 842 download events in this period)
+Total number of records downloaded: 130
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 13
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-06 ; Times: 3
+	Date: 2020-11-04 ; Times: 4
+	Date: 2020-11-05 ; Times: 2
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "philander opossum" ; Times: 2
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Hydrochoeris hydrochaeris" ; Times: 2
+	Query: "panthera onca" ; Times: 2
+	Query: "Mus musculus" ; Times: 2
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 2
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+
+
+End of report.
